@@ -1,1 +1,6 @@
 This is the README file
+
+The readme.md will take presedece over the README file, but the readme.md file is meant to used as a Markdown file.  SEE:
+http://daringfireball.net/projects/markdown/
+
+
